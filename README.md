@@ -16,7 +16,7 @@ Produtos utilizados:
 
 ### Começando
 
-Para instalar clone o repositorio, instale as dependêcias, crie as collections no Dynamo e execute o script sql e adicione a primeira url de busca.
+Para instalar clone o repositorio, instale as dependêcias e crie as collections no DynamoDb.
 
 ```shell
 $ git clone https://github.com/danielcsrs/serverless-nodejs-api
